@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #284B63;
+    color: #FFEA00;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.lists {
+    margin-top: -100px;
+}
+
+footer {
+    font-weight: bold;
+    letter-spacing: 3px;
+    margin: 50px 0px;
+    text-align: center;
+}
